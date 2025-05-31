@@ -2,6 +2,7 @@
 
 Kian H. Syjueco
 
-PRACTICE - Test Case Upload Check
-open main.cpp
-click run
+Open Github Desktop
+Click Show in Explorer 
+Ioeb PRACTICE - Test Case Upload Check.sln
+run the file
