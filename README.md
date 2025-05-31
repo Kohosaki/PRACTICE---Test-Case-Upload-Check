@@ -2,6 +2,6 @@
 
 Kian H. Syjueco
 
-Go to PRACTICE - Test Case
-open main.cpp
-click run
+Open PRACTICE - Test Case Upload Check.sln
+Click run the green button
+
