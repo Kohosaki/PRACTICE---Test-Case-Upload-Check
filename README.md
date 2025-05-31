@@ -2,6 +2,6 @@
 
 Kian H. Syjueco
 
-Open PRACTICE - Test Case Upload Check.sln
-Click run the green button
-
+PRACTICE - Test Case Upload Check
+open main.cpp
+click run
