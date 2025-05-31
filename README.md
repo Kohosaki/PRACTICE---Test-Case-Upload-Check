@@ -4,5 +4,5 @@ Kian H. Syjueco
 
 Open Github Desktop
 Click Show in Explorer 
-Ioeb PRACTICE - Test Case Upload Check.sln
+Open PRACTICE - Test Case Upload Check.sln
 run the file
