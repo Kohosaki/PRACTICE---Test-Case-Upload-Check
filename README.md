@@ -2,6 +2,6 @@
 
 Kian H. Syjueco
 
-Go to PRACTICE - Test Case
+PRACTICE - Test Case Upload Check
 open main.cpp
 click run
